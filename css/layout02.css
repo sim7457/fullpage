@@ -1,0 +1,29 @@
+.main {
+    padding: 100px 0;
+}
+
+.main h2 {
+    background: tomato;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.main p {
+    text-align: center;
+    margin: 0 0 30px 0;
+
+}
+
+.main .inner {
+    display: flex;
+    background: #ff0;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main .box {
+    flex: 1;
+    background: #fff;
+
+}
